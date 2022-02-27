@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 19. 1642. An exact relation of two victorious battels fought by the English: wherein they put to flight 2200, and kill'd 700 of the rebels at Cardoughen in the province of Munster; and 500 more at Youghall; at both which places they took a great quantity of ammunition, goods and victuals from the rebels. As it was sent to Mr. Buller, a member of the House of Commons, and another gentleman of quality. Wherein is likewise a true relation of the death of the Lord President.</title>
+            <author>Buller, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77779</idno>
+            <idno type="STC">Wing B5423</idno>
+            <idno type="STC">Thomason E107_16</idno>
+            <idno type="STC">ESTC R2744</idno>
+            <idno type="EEBO-CITATION">99872165</idno>
+            <idno type="PROQUEST">99872165</idno>
+            <idno type="VID">124589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124589)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July 19. 1642. An exact relation of two victorious battels fought by the English: wherein they put to flight 2200, and kill'd 700 of the rebels at Cardoughen in the province of Munster; and 500 more at Youghall; at both which places they took a great quantity of ammunition, goods and victuals from the rebels. As it was sent to Mr. Buller, a member of the House of Commons, and another gentleman of quality. Wherein is likewise a true relation of the death of the Lord President.</title>
+                  <author>Buller, John, 17th cent.</author>
+                  <author>Moore, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.N. and I.F. for E. Husbands and I. Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of 2 letters, written by John Buller and Thomas Moore respectively.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124589:1"/>
+            <pb facs="tcp:124589:1" rendition="simple:additions"/>
+            <p>JULY 19. 1642.</p>
+            <p>AN EXACT RELATION OF TWO Victorious Battels Fought by the Engliſh: Wherein they put to flight 2200, and kill'd 700 of the Rebels at <hi>Cardoughen</hi> in the Province of <hi>Munſter;</hi> and 500 more at <hi>Youghall<g ref="char:punc">▪</g>
+               </hi> at both which places they took a great quantity of Ammu<g ref="char:EOLhyphen"/>nition, goods and victuals from the Rebels.</p>
+            <p>As it was ſent to Mr. <hi>Buller,</hi> a Member of the Houſe of Commons, and another Gentleman of quality.</p>
+            <p>Wherein is likewiſe a true Relation of the death of the Lord Preſident.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>L. N.</hi> and <hi>I. F.</hi> for <hi>E. Husbands</hi> and <hi>I. Franck.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:124589:2"/>
+            <pb n="3" facs="tcp:124589:2"/>
+            <opener>
+               <dateline>
+                  <date>Cardoughen, 3. Iulii, 1642. IN MVNSTER.</date>
+               </dateline>
+               <lb/>
+               <salute>DEar Brother, my kind love remembred unto you.</salute>
+            </opener>
+            <p>This is the third of my writing ſince my arrivall in <hi>Ireland,</hi> where we want both men and money, which if we have not ſupplyed ſuddenly we ſhall be forc't to retreat unto the Sea-ports. As for News, you may be pleaſed to take notice, that on Tueſ<g ref="char:EOLhyphen"/>day laſt, there were 500 Muſquetiers, and two troops of horſe, which fell on 3000 of the Rebels, and beat them out of their quarters, taking all their baggage, and killing about 400; wee onely loſt three men, and had five hurt, whereof my Corporall was kill'd, my Sargeant run clean through the body, but is yet living,
+<pb n="4" facs="tcp:124589:3"/>
+my Drummer dangerouſly hurt, with another of my common Souldiers. My Lo: Preſident dyed yeſterday about ſeven of the clock in the forenoon, the Rebels had beſieged his Caſtle, but were likewiſe beaten off by the Lord <hi>Inchequeen,</hi> who kill'd between 6 and 700 of them, and poſſeſt himſelf of all the baggage, there were of the Rebells above 2200, over and beſides what they killed. Thus with my duty to my father and mother, I reſt</p>
+            <closer>
+               <signed>Your loving Brother,
+<hi>IO: B<g ref="char:V">Ʋ</g>LLER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:124589:3"/>
+            <opener>
+               <dateline>
+                  <date>YOVGHALL, 4. JULII, 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>Honeſt Mr. BAYLY,</salute>
+            </opener>
+            <p>HAving this opportunity, and ſome good news to communicate to you, I could not chooſe but acquaint you, that upon Wedneſday laſt a party of 500 Muſquetiers, and 3 troops of horſe marched from the camp at <hi>Dunarraile,</hi> into the county of <hi>Limrick</hi> to <hi>Shandrithe,</hi> where 2500 horſe &amp; foot of the Rebells were quartered, whom our men (de<g ref="char:EOLhyphen"/>ſpiſing their numbers) very valiantly aſſailed in their quarters, but not before they were provided for them; for they had long before taken the Alarm, and had ſent out a Troop of their horſe, and after that their whole bo<g ref="char:EOLhyphen"/>dy, whom our men declined untill they came into good ground, and then made a ſtand ready to receive them, but then they retreated to their quarter in the Town, and ours advanced both Foot and Horſe, they intertai<g ref="char:EOLhyphen"/>ned a pretty Skirmiſh with our foot, wherein we loſt two men and had eight hurt, at laſt the Lord of <hi>Dun<g ref="char:EOLhyphen"/>garvans</hi> Troop commanded by Lieutenant <hi>Carleton,</hi> obſerving that they with-guarded the entrance of their quarter and not ſuddenly to be releived flew in and forc'd it, whereupon as their manner is they fell to their
+<pb n="6" facs="tcp:124589:4"/>
+heeles, and our horſe to execution for three miles ſpace, untill they came to a wood their common refuge; there fell of the Enemie between four and five Hun<g ref="char:EOLhyphen"/>dred: We took one Captaine and twelve others of qualitie, ſix Enſignes, ſix Drummes, two bagpipes, two waggons, one Hundred and twenty Muſquets, abundance of Pikes, and ſome Ammunition<g ref="char:punc">▪</g> we had on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly two horſes hurt. Yeſterday the Lord <hi>Browhill</hi> with his Troop, and between two and three Hundred Foot going to releive Sir <hi>Richard Oſborn,</hi> who was in great Diſhes at his Caſtle, was encountred by Sir <hi>Ni<g ref="char:EOLhyphen"/>cholas Welſh</hi> (neer <hi>Cappa</hi>) with three Troops and ſix or eight Colours of Foot, after an houres Skirmiſh they fell into diſorder, brake and fled: Our men did execu<g ref="char:EOLhyphen"/>tion upon them untill they got the wood to their ſhell<g ref="char:EOLhyphen"/>ter, they found two Hundred and fiftie dead bodyes, took forty Muſquets, abundance of Pikes, ſome pow<g ref="char:EOLhyphen"/>der and bullets, and a great deale of good cheere, wher<g ref="char:EOLhyphen"/>with they intended to be merry, after they had waſhed their hands in Engliſh blood: we loſt one onely Gen<g ref="char:EOLhyphen"/>tleman Maſter <hi>Maynard,</hi> eldeſt Son to the Ladie <hi>May<g ref="char:EOLhyphen"/>nard,</hi> whom we all much lament.</p>
+            <closer>
+               <signed>Your aſſured loving friend
+<hi>Thomas Moore.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:124589:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
